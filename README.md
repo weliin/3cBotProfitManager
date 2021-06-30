@@ -2,7 +2,7 @@
 Adjusts bots' take profit percentage based on the number of safety orders taken for a 3commas DCA bot or bots which is a strategy used by [BLOCK PARTY TRADING](https://www.blockpartytrading.com/)
 
 # DISCLAIMER
-This script should be used at your own risk, I will not be responsible for any errors encountered while using the script. You should read it, understand wht it is doing before using the script.  Use of the script means that you understand this warning and agree that you are using the script at your own risk.
+This script should be used at your own risk, I will not be responsible for any errors encountered while using the script. You should read and understand what the script is doing before using the script.  Use of the script means that you understand this warning and agree that you are using the script at your own risk.
 
 # Requirements
 * Python version 3.9, tested on 3.9.5
