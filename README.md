@@ -10,7 +10,7 @@ This script should be used at your own risk, I will not be responsible for any e
 * 3commas.io API Key with BotsRead, BotsWrite, and AccountsRead permissions. 
 
 # Configuration
-Configurtion is done in the config.json file.  You will nee the 3commas.io API key and API Key secret. You should check to make sure the JSON is well formed by using a JSON Validator like [JSON Lint](https://jsonlint.com/)
+Configuration is done in the config.json file.  You will nee the 3commas.io API key and API Key secret. You should check to make sure the JSON is well formed by using a JSON Validator like [JSON Lint](https://jsonlint.com/)
 
 The example config file edits the settings for 3 bots. You get the bot id from 3commas website or using Bot Manager.  If you want to script to mange more or less bots simply remove a the JSON object from the JSON array.
 
