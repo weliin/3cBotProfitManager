@@ -66,5 +66,5 @@ The example config file edits the settings for 3 bots. You get the bot id from 3
 # Executing
 Running the script is rather straightforward `python 3cBotProfitManager.py` (Mac or Linux) or `py 3cBotProfitManager.py` (Windows).  You can then use a scheduled task or cron job to excecute the script periodically. I personally run it every 10 minutes.  
 
-# Questions or Problems
+# Questions or Issues
 If you run into any issues, please create an issue on this repository.
